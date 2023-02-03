@@ -4,6 +4,7 @@ Some Java katas / challenges to improve language skills, clean code & best pract
 ## Implemented solutions
 * even or odd (code and unit test cases)
 * sum of odd numbers from triangle (code and unit test cases)
+* consecutive strings concatenation (code and unit test cases)
 ## Contact
 Blog: https://gabelopment.wordpress.com/
 
