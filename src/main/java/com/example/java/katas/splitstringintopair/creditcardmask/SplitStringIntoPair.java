@@ -19,7 +19,7 @@ public class SplitStringIntoPair {
             }
 
             String[] result = new String[str.length() / 2];
-            for (int i = 0; i < str.length() / 2; i++) {
+            for (int i = 0; i < result.length; i++) {
                 result[i] = str.substring(i * 2, i * 2 + 2);
             }
 
